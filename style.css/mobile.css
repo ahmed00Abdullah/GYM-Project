@@ -1,0 +1,23 @@
+#navbar{
+    flex-direction: column;
+    padding-bottom: 1.5rem;
+}
+#about .contant{
+        flex-direction: column;
+        padding-bottom: 1.5rem;
+}
+#programs .boxes{
+        align-items: center;
+        flex-direction: column;
+        padding-bottom: .5rem;
+}
+#programs .boxes .box{
+    display: inline;
+    padding-bottom: .5rem;
+}
+#trainers .trainer{
+
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: .5rem;
+}
